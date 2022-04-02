@@ -1,2 +1,2 @@
 # Google-Code-Jam-Qualification
-my first code jam 
+my first code jam, 
