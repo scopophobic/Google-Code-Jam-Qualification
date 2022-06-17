@@ -1,2 +1,5 @@
 # Google-Code-Jam-Qualification
-my first code jam, 
+
+### My first code jam
+
+*this was my first code jam, i really enjoyed it.*
